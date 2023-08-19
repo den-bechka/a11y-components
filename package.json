@@ -1,0 +1,24 @@
+{
+  "name": "a11y-components",
+  "version": "0.0.0",
+  "author": "Dmitry Bechka <den.bechka@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/den-bechka/a11y-components.git"
+  },
+  "bugs": {
+    "url": "https://github.com/den-bechka/a11y-components/issues"
+  },
+  "homepage": "https://github.com/den-bechka/a11y-components#readme",
+  "scripts": {
+    "start": "lerna run start --parallel",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.5.1",
+    "lerna": "^7.1.5",
+    "typescript": "^5.1.6"
+  }
+}
